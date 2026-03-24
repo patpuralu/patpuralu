@@ -1,7 +1,6 @@
-# Hola, soy patpuralu 👋
+#                                 Hola, soy patpuralu 👋
 
-💻 Desarrollador apasionado por la tecnología  
-🚀 Fundador de **IBICE** (empresa virtual)  
+💻 Desarrollador apasionado por la tecnología   
 🎮 Me gusta crear, aprender y experimentar con nuevos proyectos
 
 ---
