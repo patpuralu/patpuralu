@@ -13,7 +13,7 @@
 
 
 ## Sobre mí 👤
-- 🧑‍🎓 **Estudiante** de programación y tecnología  
+- 🧑‍🎓 **Estudiante** de programación y tecnología (2SMR)
 - 🧑‍💼 **Nombre:** Patrik  
 - 🏢 **Fundador de:** IBICE  
 - 🎮 **Hobby:** Programar, aprender, crear proyectos y jugar videojuegos  
