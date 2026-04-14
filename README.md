@@ -16,7 +16,7 @@
 - 🧑‍🎓 **Estudiante** de programación y tecnología (2SMR)
 - 🧑‍💼 **Nombre:** Patrik   
 - 🎮 **Hobby:** Programar, aprender, crear proyectos y jugar videojuegos  
-
+- **Web:** https://patpuralu.github.io/
 
 ## Lenguajes que utilizo ⛏️
 <p align="left">
