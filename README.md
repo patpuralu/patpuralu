@@ -13,7 +13,7 @@
 
 
 ## Sobre mí 👤
-- 🧑‍🎓 **Estudiante** de programación y tecnología (2SMR)
+- 🧑‍🎓 **Estudiante** de sistemas microinformáticos y redes (2SMR)
 - 🎮 **Hobby:** Programar, aprender, crear proyectos y jugar videojuegos  
 - **Web:** https://patpuralu.github.io/
 
