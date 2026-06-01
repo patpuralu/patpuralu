@@ -15,7 +15,8 @@
 ## Sobre mí 👤
 - 🧑‍🎓 **Estudiante** de sistemas microinformáticos y redes (2SMR)
 - 🎮 **Hobby:** Programar, aprender, crear proyectos y jugar videojuegos  
-- **Web:** https://patpuralu.github.io/
+- **Web:** https://patpuralu.github.io
+          -- https://titanfallnexus.github.io
 
 ## Lenguajes que utilizo ⛏️
 <p align="left">
