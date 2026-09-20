@@ -26,8 +26,8 @@
 
 
 ## En qué trabajo 🚀
-- 🐧 **IbiceOS:** distribución Linux personalizada basada en Ubuntu Server 24.04
-- 🤖 **KernIA:** asistente con IA para estudiantes de FP de informática
+- 🎮 **Roblox Studio:** creando juegos y experiencias, desde el scripting hasta el diseño de niveles y UI
+- 🛠️ **Proyectos independientes:** apps web, herramientas y experimentos con distintas tecnologías
 - 🌌 **Portfolio:** web personal con temática Transformers y efectos 3D
 
 
